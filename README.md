@@ -1,6 +1,6 @@
 # 📊 Candy Distributor Data Analyst Project
 
-An end-to-end data analytics project project using Python, SQL, and Power BI to analyze and visualize sales and profit data for a candy distributor. The goal is to determine the trends of the candy products, the factories, and regional data to help make better informed business decisions for the future to maximize profit and minimize resource expenditure.
+An end-to-end data analytics project project using Python, SQL, and Power BI to analyze and visualize sales and profit data for a candy distributor. The goal is to determine the trends of the candy products, the factories, and regional data to help make informed business decisions for the future to maximize profit and minimize resource expenditure.
 
 ---
 
