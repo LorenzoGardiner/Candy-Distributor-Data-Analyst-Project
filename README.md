@@ -5,9 +5,9 @@ An end-to-end data analytics project project using Python, SQL, and Power BI to 
 ---
 
 ## 📖 Table of Contents
-
-[How to Run the Project](How to Run the Project)
-[Results/Findings](Results/Findings)
+- [Questions to Answer](#Questions-to-Answer)
+- [How to Run the Project](#️how-to-run-the-project)
+- [Results/Findings](Results/Findings)
 
 ---
 
