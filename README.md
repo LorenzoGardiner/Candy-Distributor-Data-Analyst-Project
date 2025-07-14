@@ -49,7 +49,7 @@ Includes:
 3. Create a CandyDb database in PostgreSQL
 4. Run [`import_csv_postgresql.py`](python/import_csv_postgresql.py) in Python to directly import the CSV files into tables in CandyDB
 5. Run the -[`CandyQueries.sql`](sql/CandyQueries.sql) queries in PostgreSQL to transform, clean, create views, and query the data
-6. Run [`powerbi/CandyBI.pbix]powerbi/CandyBI.pbix) in PowerBI to create visualisations and an interactive dashboard
+6. Run [CandyBI.pbix](powerbi/CandyBI.pbix) in PowerBI to create visualisations and an interactive dashboard
 
 
 [Candy Sales Dashboard](candydashboard.png)
