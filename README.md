@@ -14,11 +14,9 @@ A data analytics project using Python, SQL, and Power BI to analyze and visualiz
 
 ## 🧰 Tools & Technologies
 
-- **SQL** (e.g., PostgreSQL, MySQL): Data modeling, transformation, querying
-- **Python** (pandas, matplotlib, seaborn): Data cleaning, analysis, and visualization
-- **Power BI**: Interactive data dashboards and reporting
-- **Jupyter Notebook**: For step-by-step analysis in Python
-
+- **Python** (pandas, sqlalchemy): Importing CSV files into PostgreSQL tables
+- **SQL** (PostgreSQL): Querying
+- **Power BI**: Creating visualisations and interactive data dashboards
 ---
 
 ## 🗃️ Data Sources
