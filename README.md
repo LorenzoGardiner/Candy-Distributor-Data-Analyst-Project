@@ -28,7 +28,11 @@ Includes:
 - `Candy_Products.csv`: Product attributes like type, category, and cost
 
 ---
+## 📈 Future Improvements
 
+- Data on the factory costs including equipment, materials, salaries would allows further evaluation of factory optimization and profitability
+- Data on the identified top customers would allows marketing campaigns targeting customers with similar preferences lead to higher conversion rates on advertisements
+---
 
 ## 📬 Contact
 Lorenzo Gardiner
