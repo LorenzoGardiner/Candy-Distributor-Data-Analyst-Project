@@ -32,6 +32,6 @@ A data analytics project using Python, SQL, and Power BI to analyze and visualiz
 ---
 
 
-📬 Contact
+## 📬 Contact
 Lorenzo Gardiner
 🌐 LinkedIn: www.linkedin.com/in/lorenzo-gardiner
