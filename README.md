@@ -44,7 +44,7 @@ Includes:
 ---
 
 ## ⚙️ How to Run the Project
-1. Download requirements.txt, and the files in -`data/`
+1. Download [requirements.txt](requirements.txt), and the files in [-`data/`](data')
 2. Install the Python libraries: -`pip install -r requirements.txt`
 3. Create a CandyDb database in PostgreSQL
 4. Run -`python/import_csv_postgresql.py` in Python to directly import the CSV files into tables in CandyDB
