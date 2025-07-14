@@ -1,21 +1,21 @@
 # 📊 Candy Distributor Data Analyst Project
 
-A data analytics project using Python, SQL, and Power BI to analyze and visualize sales and profit data for a candy distributor. The goal is to determine the trends of the candy products, the factories, and regional data to help make better informed business decisions for the future to maximize profit and minimize resource expenditure.
+An end-to-end data analytics project project using Python, SQL, and Power BI to analyze and visualize sales and profit data for a candy distributor. The goal is to determine the trends of the candy products, the factories, and regional data to help make better informed business decisions for the future to maximize profit and minimize resource expenditure.
 
 ---
 
 ## 🚀 Project Objectives
 
 - Import CSV into PostgreSQL with Python to create tables
-- Perform data cleaning, transformation, and analysis using SQL and Python.
-- Build interactive dashboards using Power BI for stakeholder insights.
-
+- Perform data cleaning, transformation, and analysis using SQL
+- Build interactive dashboards using Power BI for stakeholder insights
+  
 ---
 
 ## 🧰 Tools & Technologies
 
 - **Python** (pandas, sqlalchemy): Importing CSV files directly into PostgreSQL tables
-- **SQL** (PostgreSQL): Data Cleaning and Querying
+- **SQL** (PostgreSQL): Data cleaning, transformation, and querying
 - **Power BI**: Creating visualisations and interactive data dashboards
 ---
 
@@ -24,8 +24,8 @@ A data analytics project using Python, SQL, and Power BI to analyze and visualiz
 Dataset: [US Candy Distributor Dataset – Maven Analytics](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&tags=Business)  
 Includes:
 
-- `Candy_Sales.csv`: Sales transactions by region, and product  
-- `Candy_Products.csv`: Product attributes like type, category, and cost
+- `Candy_Sales.csv`: Sales transactions by region, order date, sales, cost, units sold, and product ID  
+- `Candy_Products.csv`: Product attributes like product name, product ID, factory, prrice, and cost
 
 ## 🗃️ Questions to Answer
 
@@ -33,7 +33,11 @@ Includes:
 - What factories are the most profitable?
 - Who are the top 3 customers by sales?
 - What are the top 3 candies per region?
-- What is the trend of 
+- What are the top states/provinces by sales?
+- What candy type generates the most revenue?
+- What is the percentage that each shipping method is used?
+- What is the trend of factory profit?
+- What is the trend of candy sales?
 
 ---
 ## 📈 Future Improvements
