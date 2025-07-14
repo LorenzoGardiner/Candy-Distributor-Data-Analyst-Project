@@ -24,8 +24,16 @@ A data analytics project using Python, SQL, and Power BI to analyze and visualiz
 Dataset: [US Candy Distributor Dataset – Maven Analytics](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&tags=Business)  
 Includes:
 
-- `Candy_Sales.csv`: Sales transactions by region, factory, and product  
+- `Candy_Sales.csv`: Sales transactions by region, and product  
 - `Candy_Products.csv`: Product attributes like type, category, and cost
+
+## 🗃️ Questions to Answer
+
+- What is top selling candy?
+- What factories are the most profitable?
+- Who are the top 3 customers by sales?
+- What are the top 3 candies per region?
+- What is the trend of 
 
 ---
 ## 📈 Future Improvements
