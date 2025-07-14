@@ -57,8 +57,11 @@ Includes:
 ---
 
 ## 💡 Recommendations
-
--Increase production each quarter to match the increased sales 
+-Due to the extreme difference in revenue from chocolate compared to sweets and the other category I would suggest either reducing or eliminating production of non-chocolate candies.
+-Furthermore, the factories producing sweets and other candies are producing little profit. Therefore, adding chocolate manufacturing to these factories would be beneficial to increase chocolate production. 
+-Another option is to close the Sugar Shack and The Other Factory and open new chocolate factories in the top selling states of California, New york, or Texas where the demand is high.
+-It is important to ramp up candy production throughout the year to prepare for the quarterly increase in sales.
+-Second and first class are close in shipping percentage. Perhaps lowering the cost of second class would increase customer use and increasing first class cost would lower customer use while maintaining a similar revenue.
 
 ---
 ## 📌 Future Improvements
