@@ -21,7 +21,7 @@ A data analytics project using Python, SQL, and Power BI to analyze and visualiz
 
 ## 🗃️ Data Sources
 
-Dataset**: [US Candy Distributor Dataset – Maven Analytics](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&tags=Business)  
+Dataset: [US Candy Distributor Dataset – Maven Analytics](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&tags=Business)  
 Includes:
 
 - `Candy_Sales.csv`: Sales transactions by region, factory, and product  
@@ -32,4 +32,4 @@ Includes:
 
 ## 📬 Contact
 Lorenzo Gardiner
-🌐 LinkedIn: www.linkedin.com/in/lorenzo-gardiner
+🌐 [LinkedIn](www.linkedin.com/in/lorenzo-gardiner)
