@@ -36,4 +36,5 @@ Includes:
 
 ## 📬 Contact
 Lorenzo Gardiner
+<br>
 🌐 [LinkedIn](www.linkedin.com/in/lorenzo-gardiner)
