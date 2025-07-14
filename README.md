@@ -47,7 +47,7 @@ Includes:
 - The best selling candies are the Chocolate Bars, particularly the Triple Dazzle Caramel, Scrumdiddlyumptious, and Milk Chocolate. 
 - The Lot's O' Nuts factory is the most profitable, but Wicked Choccy's is a close second.
 - The top 3 customers are 131807, 115238, and 122336.
-- The top 3 candies per region are the same as the best selling except for Interior region replaces Scrumdiddlyumptious with Nutty Crunch Surprise.
+- The top 3 candies per region are all the same as the best selling, except for the Interior region, which replaces Scrumdiddlyumptious with Nutty Crunch Surprise.
 - The states with the most sales are California, New York, and Texas.
 - Chocolate is the highest revenue candy division by a substantial margin.
 - Standard shipping accounts for about 60% of shipping, second and first class are between 15%-20%, and same day is around 5%
