@@ -50,7 +50,7 @@ Includes:
 - The top 3 candies per region are the same as the best selling except for Interior region replaces Scrumdiddlyumptious with Nutty Crunch Surprise.
 - The states with the most sales are California, New York, and Texas.
 - Chocolate is the highest revenue candy division by a substantial margin.
-- Standard shipping accounts for about 60% of shipping, second and first class are between 15% and 20%, and same day is around 5%
+- Standard shipping accounts for about 60% of shipping, second and first class are between 15%-20%, and same day is around 5%
 - Overall for the top factories and chocolate the profit and sales are increasing year over year. However, for the other factories and candies, their growth appears stagnant. Their sales are only marginally higher. 
 - Their is an overall quarterly trend showing increasing sales as the year progresses.
 
