@@ -44,12 +44,12 @@ Includes:
 ---
 
 ## ⚙️ How to Run the Project
-1. Download [requirements.txt](requirements.txt), and the files in [-`data/`](data')
+1. Download [requirements.txt](requirements.txt), and the files in [-`data/`](data/)
 2. Install the Python libraries: -`pip install -r requirements.txt`
 3. Create a CandyDb database in PostgreSQL
-4. Run -`python/import_csv_postgresql.py` in Python to directly import the CSV files into tables in CandyDB
-5. Run the -`sql/CandyQueries.sql` queries in PostgreSQL to transform, clean, create views, and query the data
-6. Run -`powerbi/CandyBI.pbix` in PowerBI to create visualisations and an interactive dashboard
+4. Run [-`import_csv_postgresql.py`](python/import_csv_postgresql.py) in Python to directly import the CSV files into tables in CandyDB
+5. Run the [-`CandyQueries.sql`](`sql/CandyQueries.sql) queries in PostgreSQL to transform, clean, create views, and query the data
+6. Run [-`powerbi/CandyBI.pbix]powerbi/CandyBI.pbix) in PowerBI to create visualisations and an interactive dashboard
 
 
 [Candy Sales Dashboard](candydashboard.png)
