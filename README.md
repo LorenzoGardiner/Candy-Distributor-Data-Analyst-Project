@@ -52,7 +52,7 @@ Includes:
 6. Run [`CandyBI.pbix`](powerbi/CandyBI.pbix) in PowerBI to create visualisations and an interactive dashboard
 
 
-[Candy Sales Dashboard](candydashboard.png)
+![Candy Sales Dashboard](candydashboard.png)
 
 ---
 
