@@ -43,6 +43,16 @@ Includes:
 
 ---
 
+## ⚙️ How to Run the Project
+1. Download requirements.txt, and the files in -`data/`
+2. Install the Python libraries: -`pip install -r requirements.txt`
+3. Create a CandyDb database in PostgreSQL
+4. Run -`python/import_csv_postgresql.py` in Python to directly import the CSV files into tables in CandyDB
+5. Run the -`sql/CandyQueries.sql` queries in PostgreSQL to transform, clean, create views, and query the data
+6. Run -`powerbi/CandyBI.pbix` in PowerBI to create visualisations and an interactive dashboard
+
+---
+
 ## 🔍 Results/Findings
 - The best selling candies are the Chocolate Bars, particularly the Triple Dazzle Caramel, Scrumdiddlyumptious, and Milk Chocolate. 
 - The Lot's O' Nuts factory is the most profitable, but Wicked Choccy's is a close second.
