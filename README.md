@@ -23,7 +23,8 @@ A data analytics project using Python, SQL, and Power BI to analyze and visualiz
 
 ## 🗃️ Data Sources
 
--  US Candy Distributor from Maven Analytics https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&tags=Business
+-  US Candy Distributor Dataset from Maven Analytics:
+-  https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&tags=Business
 - Files:
 - Candy_Sales.csv
 - Candy_Products.csv
