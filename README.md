@@ -5,16 +5,15 @@ An end-to-end data analytics project using Python, SQL, and Power BI to analyze 
 ---
 
 ## 📖 Table of Contents
-- [Project Objectives](#-project-objectives)
-- [Tools & Technologies](#-tools--technologies)
-- [Data Sources](#️-data-sources)
-- [Questions to Answer](#-questions-to-answer)
-- [How to Run the Project](#️-how-to-run-the-project)
-- [Results/Findings](#-resultsfindings)
-- [Recommendations](#-recommendations)
-- [Future Improvements](#-future-improvements)
-- [Contact](#-contact)
-
+- [🎯 Project Objectives](#-project-objectives)
+- [🧰 Tools & Technologies](#-tools--technologies)
+- [🗃️ Data Sources](#️-data-sources)
+- [❓ Questions to Answer](#-questions-to-answer)
+- [⚙️ How to Run the Project](#️-how-to-run-the-project)
+- [🔍 Results/Findings](#-resultsfindings)
+- [💡 Recommendations](#-recommendations)
+- [📌 Future Improvements](#-future-improvements)
+- [📬 Contact](#-contact)
 ---
 
 ## 🎯 Project Objectives
