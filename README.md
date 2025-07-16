@@ -1,6 +1,6 @@
 # 📊 Candy Distributor Data Analyst Project
 
-An end-to-end data analytics project project using Python, SQL, and Power BI to analyze and visualize sales and profit data for a candy distributor. The goal is to determine the trends of the candy products, the factories, and regional data to help make informed business decisions for the future to maximize profit and minimize resource expenditure.
+An end-to-end data analytics project using Python, SQL, and Power BI to analyze and visualize sales and profit data for a candy distributor. The goal is to determine the trends of the candy products, the factories, and regional data to help make informed business decisions for the future to maximize profit and minimize resource expenditure.
 
 ---
 
@@ -70,14 +70,14 @@ Includes:
 - Chocolate is the highest revenue candy division by a substantial margin.
 - Standard shipping accounts for about 60% of shipping, second and first class are between 15%-20%, and same day is around 5%
 - Overall for the top factories and chocolate the profit and sales are increasing year over year. However, for the other factories and candies, their growth appears stagnant. Their sales are only marginally higher. 
-- Their is an overall quarterly trend showing increasing sales as the year progresses. Specifically the fourth quarter has the highest sales of all quarters each year.
+- There is an overall quarterly trend showing increasing sales as the year progresses. Specifically the fourth quarter has the highest sales of all quarters each year.
 
 ---
 
 ## 💡 Recommendations
 - Due to the extreme difference in revenue from chocolate compared to sweets and the other category I would suggest either reducing or eliminating production of non-chocolate candies.
 - Furthermore, the factories producing sweets and other candies are producing little profit. Therefore, adding chocolate manufacturing to these factories would be beneficial to increase chocolate production. 
-- Another option is to close the Sugar Shack and The Other Factory and open new chocolate factories in the top selling states of California, New york, or Texas where the demand is high.
+- Another option is to close the Sugar Shack and The Other Factory and open new chocolate factories in the top selling states of California, New York, or Texas where the demand is high.
 - It is important to ramp up candy production throughout the year to prepare the candy supply for the quarterly increase in sales.
 - Second and first class shipping are close in shipping percentage. Perhaps lowering the cost of second class would increase customer use and increasing first class cost would lower customer use while maintaining a similar revenue.
 
