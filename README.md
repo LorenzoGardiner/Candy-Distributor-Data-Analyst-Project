@@ -30,9 +30,8 @@ Dataset: [US Candy Distributor Dataset – Maven Analytics](https://mavenanalyti
 The specific files used for this project are:
 - `Candy_Sales.csv`
 - `Candy_Products.csv`
-<br>
 <div align="center">
-  <img src="Candy_ERD.png" alt="ERD Candy" width="400"/>
+  <img src="Candy_ERD.png" alt="ERD Candy" width="500"/>
 </div>
 
 ---
