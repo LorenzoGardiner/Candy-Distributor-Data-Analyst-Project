@@ -31,6 +31,7 @@ Includes:
 
 - `Candy_Sales.csv`: Sales transactions information including region, order date, sales, cost, units sold, and product ID  
 - `Candy_Products.csv`: Product attributes like product name, product ID, factory, price, and cost
+![ERD Candy](ERD Candy Files.png)
 
 ---
 
