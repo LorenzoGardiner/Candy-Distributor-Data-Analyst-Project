@@ -27,12 +27,12 @@ An end-to-end data analytics project using Python, SQL, and Power BI to analyze 
 ## 🗃️ Data Sources
 
 Dataset: [US Candy Distributor Dataset – Maven Analytics](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&tags=Business)  
-The files used for this project are:
+The specific files used for this project are:
 - `Candy_Sales.csv`
 - `Candy_Products.csv`
 <br>
 <div align="center">
-  <img src="Candy_ERD.png" alt="ERD Candy" width="600"/>
+  <img src="Candy_ERD.png" alt="ERD Candy" width="400"/>
 </div>
 
 ---
