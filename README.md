@@ -27,11 +27,13 @@ An end-to-end data analytics project using Python, SQL, and Power BI to analyze 
 ## 🗃️ Data Sources
 
 Dataset: [US Candy Distributor Dataset – Maven Analytics](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&tags=Business)  
-Includes:
+The files that were used are `Candy_Sales.csv` and `Candy_Products.csv`
+<br>
+The ERD below shows the relationship between the two main tables used in this project:
 
-- `Candy_Sales.csv`: Sales transactions information including region, order date, sales, cost, units sold, and product ID  
-- `Candy_Products.csv`: Product attributes like product name, product ID, factory, price, and cost
-![ERD Candy](CandyERD.png)
+<div align="center">
+  <img src="CandyERD.png" alt="ERD Candy" width="600"/>
+</div>
 
 ---
 
