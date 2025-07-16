@@ -11,8 +11,8 @@ An end-to-end data analytics project using Python, SQL, and Power BI to analyze 
 
 ## 🎯 Project Objectives
 
-- Import CSV into PostgreSQL with Python to create tables
-- Perform data cleaning, transformation, and analysis using SQL
+- Create a database and import the candy distributor data with Python
+- Perform data cleaning, data type standardization, joins, and analytical queries using SQL
 - Build interactive dashboards using Power BI for stakeholder insights
   
 ---
