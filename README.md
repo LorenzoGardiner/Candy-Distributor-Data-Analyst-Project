@@ -5,15 +5,15 @@ An end-to-end data analytics project using Python, SQL, and Power BI to analyze 
 ---
 
 ## 📖 Table of Contents
-- [🎯 Project Objectives](#-project-objectives)
-- [🧰 Tools & Technologies](#-tools--technologies)
-- [🗃️ Data Sources](#️-data-sources)
-- [❓ Questions to Answer](#-questions-to-answer)
-- [⚙️ How to Run the Project](#️-how-to-run-the-project)
-- [🔍 Results/Findings](#-resultsfindings)
-- [💡 Recommendations](#-recommendations)
-- [📌 Future Improvements](#-future-improvements)
-- [📬 Contact](#-contact)
+- [Project Objectives](#-project-objectives)
+- [Tools & Technologies](#-tools--technologies)
+- [Data Sources](#️-data-sources)
+- [Questions to Answer](#-questions-to-answer)
+- [How to Run the Project](#️-how-to-run-the-project)
+- [Results/Findings](#-resultsfindings)
+- [Recommendations](#-recommendations)
+- [Future Improvements](#-future-improvements)
+- [Contact](#-contact)
 
 ---
 
@@ -22,7 +22,7 @@ An end-to-end data analytics project using Python, SQL, and Power BI to analyze 
 - Create a database and import the candy distributor data with Python
 - Perform data cleaning, data type standardization, joins, and analytical queries using SQL
 - Build interactive dashboards using Power BI for stakeholder insights
-  
+- Make business recommendations based on the results of the analysis
 ---
 
 ## 🧰 Tools & Technologies
