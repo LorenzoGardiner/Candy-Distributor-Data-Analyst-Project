@@ -94,4 +94,4 @@ The specific files used for this project are:
 ## 📬 Contact
 Lorenzo Gardiner
 <br>
-🌐 [LinkedIn](www.linkedin.com/in/lorenzo-gardiner)
+🌐 [Connect with me on LinkedIn](https://www.linkedin.com/in/lorenzo-gardiner)
