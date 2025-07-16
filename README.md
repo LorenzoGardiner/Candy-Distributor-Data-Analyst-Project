@@ -65,7 +65,7 @@ The specific files used for this project are:
 5. Run the -[`CandyQueries.sql`](sql/CandyQueries.sql) queries in PostgreSQL to transform, clean, create views, and query the data
 6. Run [`CandyBI.pbix`](powerbi/CandyBI.pbix) in PowerBI to create visualisations and an interactive dashboard
 
-
+![`CandyQueries.sql`](sql/CandyQueries.sql)
 ![Candy Sales Dashboard](candydashboard.png)
 
 ---
